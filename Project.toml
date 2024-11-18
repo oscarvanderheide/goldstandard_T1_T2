@@ -1,0 +1,10 @@
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+PhilipsDataList = "8d02dd3f-0ae5-4a36-8097-157a91f88471"
+PhilipsWorkspace = "a5223014-48d4-4ad6-9e99-a590982f2972"
+Varpro = "ad47e2ae-6390-11e8-3558-e91f8c28af54"
+
+[sources.Varpro]
+url = "https://github.com/macd/Varpro.jl"

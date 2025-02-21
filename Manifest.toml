@@ -2,7 +2,7 @@
 
 julia_version = "1.10.4"
 manifest_format = "2.0"
-project_hash = "9a650e4d8070ccfca8a4c8417263719ff64df03e"
+project_hash = "526097d71f5077ebe95a4b2f224f9155385f3478"
 
 [[deps.AbstractFFTs]]
 deps = ["LinearAlgebra"]

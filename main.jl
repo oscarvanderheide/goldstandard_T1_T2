@@ -8,13 +8,15 @@ Pkg.activate(".")
 # Load external packages
 using Revise
 
+using FFTW
+using HDF5
+using LinearAlgebra
+using MAT
+using NamedDims
 using PhilipsDataList
 using PhilipsWorkspace
-using LinearAlgebra
-using FFTW
-using MAT
+using ProgressBars
 using Varpro
-using HDF5
 
 # Load utility functions
 includet("utils.jl")
